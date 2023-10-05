@@ -1,0 +1,14 @@
+{
+  "name": "shahryproj",
+  "version": "1.0.0",
+  "description": "shahry tech test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omar farouk",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.3.0"
+  }
+}
