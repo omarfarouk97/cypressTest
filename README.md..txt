@@ -1,0 +1,1 @@
+visit https://www.youtube.com/watch?v=AdcBb6CAofs if cypress is not openning saucelab website
